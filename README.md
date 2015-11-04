@@ -1,2 +1,1 @@
-# Server
-The official repo for ChewCrafts
+Hello! Changelog and issues will be posted here!
