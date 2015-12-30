@@ -2,10 +2,10 @@
 
 Hello! Changelog and issues will be posted here!
 
+FAQ has been moved to http://github.com/chewcraft/server/wiki/FAQ
+
 Server IP --> ChewCraft.mcpro.co
 
 Twitter is @ChewCraftServer
 
 Website is http://chewcraft.weebly.com
-
-More social media to come!
