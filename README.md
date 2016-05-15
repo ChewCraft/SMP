@@ -6,6 +6,6 @@ FAQ has been moved to http://github.com/chewcraft/server/wiki/FAQ
 
 Server IP --> play.ChewCraft.me
 
-Twitter is @ChewCraftServer
+Twitter is @ChewCraftMC
 
-Website is http://chewcraft.me
+Website is ~~http://chewcraft.me~~ broken
