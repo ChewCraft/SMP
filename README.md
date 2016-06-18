@@ -8,4 +8,4 @@ Server IP --> play.ChewCraft.me
 
 Twitter is @ChewCraftMC
 
-Website is ~~http://chewcraft.me~~ broken
+Website is http://chewcraft.me
