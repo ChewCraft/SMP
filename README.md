@@ -1,11 +1,3 @@
-**ChewCraft GitHub**
+**CipherCraft Issues**
 
-Hello! Changelog and issues will be posted here!
-
-FAQ has been moved to http://github.com/chewcraft/smp/wiki/FAQ
-
-Server IP --> play.ChewCraft.me
-
-Twitter is @ChewCraftMC
-
-Website is http://chewcraft.me
+If you've found a bug on CipherCraft, please post an issue and it will be resolved. Thanks!
