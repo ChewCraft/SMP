@@ -1,3 +1,3 @@
-**ChewCraft Issues**
+**ChewCraft Vanilla SMP (Abandoned)**
 
-If you've found a bug on ChewCraft, please post an issue and it will be resolved. Thanks!
+We have migrated from vanilla to modded, stay tuned.
