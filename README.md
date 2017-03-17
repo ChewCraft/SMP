@@ -1,3 +1,7 @@
-**ChewCraft Issues**
+# ChewCraft SMP Server
   		  
- If you've found a bug on ChewCraft, please post an issue and it will be resolved. Thanks!
+SERVER IP: `mc.chew.pw`        
+        
+[Report an Issue](github.com/chewcraft/smp/issues/new)
+
+[Issue Format](https://github.com/ChewCraft/SMP/blob/master/IssueFormat.md)
