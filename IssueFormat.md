@@ -16,7 +16,7 @@ The rest are just "survey" questions and do not need to be answered.
 
 6) How did you come across the bug? Were you searching for it?
 
-##EXAMPLE (all 6 except 2)
+## EXAMPLE (all 6 except 2)
 
 1) I found it ingame.
 
